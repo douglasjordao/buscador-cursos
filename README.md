@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="PHP Composer" />
+  <img src="./.github/app.gif" alt="Buscador Cursos" />
 
   &#xa0;
 
-  <!-- <a href="https://phpcomposer.netlify.app">Demo</a> -->
+  <!-- <a href="https://buscadorcursos.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">PHP Composer</h1>
+<h1 align="center">Buscador Cursos</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/douglasjordao/php-composer?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/douglasjordao/buscador-cursos?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/douglasjordao/php-composer?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/douglasjordao/buscador-cursos?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasjordao/php-composer?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasjordao/buscador-cursos?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/douglasjordao/php-composer?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/douglasjordao/buscador-cursos?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/douglasjordao/php-composer?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/douglasjordao/buscador-cursos?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/douglasjordao/php-composer?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/douglasjordao/buscador-cursos?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/douglasjordao/php-composer?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/douglasjordao/buscador-cursos?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  PHP Composer 🚀 Under construction...  🚧
+	🚧  Buscador Cursos 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -46,52 +46,38 @@
 
 ## :dart: About ##
 
-Describe your project
+Projeto desenvolvido no curso de Composer da Alura com a simples funcionalidade de buscar cursos no site
+da Alura.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Buscar Cursos no site Alura;
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+As seguintes tecnologias foram usadas no projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [PHP](https://php.net/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Antes de começar :checkered_flag:, você precisa ter [PHP 7.4](https://www.php.net/downloads.php) ou superior e [Composer](https://getcomposer.org/download/) instalados.
 
 ## :checkered_flag: Starting ##
 
+Para utilizar basta acessar a pasta do seu projeto e digitar o seguinte comando.
+
 ```bash
-# Clone this project
-$ git clone https://github.com/douglasjordao/php-composer
+$ composer require douglasjordao/buscador-cursos
 
-# Access
-$ cd php-composer
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+Este projeto está sob a licença GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007. Para mais detalhes, veja o [LICENSE](LICENSE).
 
 
-Made with :heart: by <a href="https://github.com/douglasjordao" target="_blank">Douglas Jordão</a>
+Feito por <a href="https://github.com/douglasjordao" target="_blank">Douglas Jordão</a>
 
 &#xa0;
 
