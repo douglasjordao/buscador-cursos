@@ -39,5 +39,6 @@
         "phan": "Check for Syntax errors in the project src/ folder.",
         "check": "Runs 'phan' and 'cs' scripts defined in composer.json."
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos"]
 }
